@@ -1,0 +1,6 @@
+[submodule "api"]
+	path = api
+	url = https://github.com/dantedenicolo/dogs-backend.git
+[submodule "client"]
+	path = client
+	url = https://github.com/dantedenicolo/dogs-frontend.git
